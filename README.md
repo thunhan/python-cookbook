@@ -1,6 +1,6 @@
 # Python Cookbook (3rd Edition) Learning Journey
 
-This repository contains my personal code implementations and practice exercises while working through the **Python Cookbook, 3rd Edition** by David Beazley and Brian K. Jones.
+This repository contains our personal code implementations and practice exercises while working through the **Python Cookbook, 3rd Edition** by David Beazley and Brian K. Jones.
 
 ## About the Book
 
