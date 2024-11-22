@@ -2,10 +2,6 @@
 
 This repository contains our personal code implementations and practice exercises while working through the **Python Cookbook, 3rd Edition** by David Beazley and Brian K. Jones.
 
-## About the Book
-
-The Python Cookbook is a comprehensive resource for intermediate and advanced Python programmers, offering practical recipes and solutions to common programming challenges across various domains.
-
 ## Repository Contents
 
 - Coding examples from each chapter
